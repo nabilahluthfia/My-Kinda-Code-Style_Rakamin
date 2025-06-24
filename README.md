@@ -1,1 +1,1 @@
-# My-Kinda-Code-Style_Rakamin
+# MyKindaCodeStyle_Rakamin
